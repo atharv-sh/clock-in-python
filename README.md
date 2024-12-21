@@ -1,5 +1,5 @@
 # Clock Project
----
+
 ## Overview:
 This project provides two versions of a live clock. One version is implemented in Python using the `tkinter` library for GUI, and the other version is built using HTML and JavaScript for a web-based solution.
 
